@@ -1,0 +1,13 @@
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\bin\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.exe
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\bin\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.deps.json
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\bin\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.runtimeconfig.json
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\bin\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.runtimeconfig.dev.json
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\bin\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.dll
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\bin\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.pdb
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\obj\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\obj\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\obj\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.AssemblyInfo.cs
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\obj\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\obj\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.dll
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\obj\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.pdb
+C:\Users\usuario\Desktop\U 2021-2\Scripting\ParcialV1.2\Aplicacion_Consola_Algoritmo_Busqueda\obj\Debug\netcoreapp3.1\Aplicacion_Consola_Algoritmo_Busqueda.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aplicacion_Consola_Algoritmo_Busqueda/1.0.0": {
+        "runtime": {
+          "Aplicacion_Consola_Algoritmo_Busqueda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicacion_Consola_Algoritmo_Busqueda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
